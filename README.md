@@ -11,7 +11,7 @@ In addition to its native capabilities, [JNA](https://discord.gg/jgXehmAJPw) off
 
 - Invoke Dynamic Transformer
 
-And other advanced transformation techniques
+And More
 
 Before 
 
