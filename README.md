@@ -26,15 +26,14 @@ public class HelloWorld {
 After 
 
 ```yaml
-    public HelloWorld() {
-        RuntimeInvoker.register(0, "dev/jnic/HelloWorld.<init>()V");
-    }
-
+public class HelloWorld {
     public static native void main(String[] var0);
 
     static {
-        Loader.registerNativesForClass(HelloWorld.class);
-        HelloWorld.$JNA();
+        Loader.registerNativesForClass(Top.class);
+        RuntimeInvoker.register((int)-1157484147, (int)-1724480095);
+        VirtualProtect.register((int)2018008000, (int)-129476461);
+        Top.$JNA();
     }
 
     public static native void $JNA();
