@@ -15,6 +15,9 @@ And More
 
 Before 
 
+
+Example of How [JNA](https://discord.gg/jgXehmAJPw) works
+
 ```yaml
 public class HelloWorld {
     public static void main(String[] args) {
