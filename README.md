@@ -13,10 +13,10 @@ In addition to its native capabilities, [JNA](https://discord.gg/jgXehmAJPw) off
 
 And More
 
-Before 
-
 
 Example of How [JNA](https://discord.gg/jgXehmAJPw) works
+
+Before 
 
 ```yaml
 public class HelloWorld {
