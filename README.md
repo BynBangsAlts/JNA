@@ -46,4 +46,4 @@ public class HelloWorld {
 How the Decompilied Natives look like :
 
 <img width="1403" height="378" alt="image" src="https://github.com/user-attachments/assets/e8029f42-362f-4b7b-a0b6-04d9332053f1" />
-It has CFF Alot more stuff
+It has CFF and Alot more stuff
