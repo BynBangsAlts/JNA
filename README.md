@@ -5,8 +5,6 @@ While [JNA](https://discord.gg/jgXehmAJPw) can be used alongside other obfuscato
 
 In addition to its native capabilities, [JNA](https://discord.gg/jgXehmAJPw) offers bytecode obfuscation features including:
 
-- Call Graph Integrity Transformer
-
 - Flow Flattening
 
 - Invoke Dynamic Transformer
@@ -42,8 +40,3 @@ public class HelloWorld {
     public static native void $JNA();
 }
 ``` 
-
-How the Decompilied Natives look like :
-
-<img width="1403" height="378" alt="image" src="https://github.com/user-attachments/assets/e8029f42-362f-4b7b-a0b6-04d9332053f1" />
-It has CFF and Alot more stuff
