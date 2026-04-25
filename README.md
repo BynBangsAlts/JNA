@@ -32,8 +32,6 @@ public class HelloWorld {
 
     static {
         Loader.a(HelloWorld.class);
-        RuntimeInvoker.register((int)-1157484147, (int)-1724480095);
-        VirtualProtect.register((int)2018008000, (int)-129476461);
         HelloWorld.$JNA();
     }
 
